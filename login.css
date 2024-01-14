@@ -1,0 +1,57 @@
+
+body{
+    background-image:<img src="https://assets.bonappetit.com/photos/610aa6ddc50e2f9f7c42f7f8/master/pass/Savage-2019-top-50-busy-restaurant.jpg";
+    text-align: justify;
+    text-align: center;
+    text-overflow: ellipsis;
+    text-emphasis: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color:orange;
+}
+a{
+    color: #fff;
+}
+a :hover{
+    color: brown;
+}
+form {
+    margin: 0 auto;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 10px;
+    color: #999;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    font-family: Arial;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2);
+  }
+  
+  form input:focus {
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.3);
+  }
+  
+  form button {
+    background-color: greenyellow;
+    color: #fff;
+    padding: 10px 20px;
+    font-family: Arial;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
