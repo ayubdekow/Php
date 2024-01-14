@@ -1,0 +1,30 @@
+body{
+    text-emphasis: none;
+    text-align: center;
+    text-decoration: none;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-inline:7px;
+    background-repeat:no-repeat;
+    background-size: auto;
+    color:whitesmoke;
+}
+.header{
+    
+    text-align: center;
+    text-align: justify;
+    text-decoration: wavy; 
+    font-weight: bold;   
+}
+nav{
+    text-align: right;
+    text-decoration: wavy;
+    padding: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+.section{
+ padding: auto;
+}
